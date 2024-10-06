@@ -1,12 +1,12 @@
 ## Milja Kivijärvi web-tehtävä
 
-### Italics and Bold
+## Italics and Bold
 Writing in Markdown is _not_ that hard!
 I **will** complete these lessons!
 "_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
-### Headers
+## Headers
 
 # Header one
 ## Header two
@@ -18,7 +18,7 @@ If you're thinking to yourself, **_This is unbelievable_**, you'd probably be ri
 #### Colombian Symbolism in *One Hundred Years of Solitude*
 Here's some words about the book _One Hundred Years...._
 
-### Links
+## Links
 
 [Search for it.](www.google.com)
 
@@ -32,7 +32,7 @@ Well, do I have [the website for you][another fun place]!
 [a fun place]: www.zombo.com
 [another fun place]: www.stumbleupon.com
 
-### Images
+## Images
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
@@ -43,7 +43,7 @@ Well, do I have [the website for you][another fun place]!
 [Orange]: http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 
-### Blockquotes
+## Blockquotes
 
 I read this interesting quote the other day:
 
@@ -58,7 +58,7 @@ I read this interesting quote the other day:
 
 >He left her quickly, fearing that her intimacy might turn to jibing and wishing to be out of the way before she offered her ware to another, a tourist from England or a student of Trinity. Grafton Street, along which he walked, prolonged that moment of discouraged poverty. In the roadway at the head of the street a slab was set to the memory of Wolfe Tone and he remembered having been present with his father at its laying. He remembered with bitterness that scene of tawdry tribute. There were four French delegates in a brake and one, a plump smiling young man, held, wedged on a stick, a card on which were printed the words: _VIVE L'IRLANDE_!
 
-### Lists
+## Lists
 
 * Flour
 * Cheese
@@ -71,7 +71,7 @@ I read this interesting quote the other day:
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
-<br>
+
 
 * Calculus  
   * A professor
@@ -93,7 +93,7 @@ I read this interesting quote the other day:
  
  For more help on tomato slicing, see Thomas Jefferson's seminal essay _Tom Ate Those_.
 
- ### Paragraphs
+## Paragraphs
 
 We pictured the meek mild creatures where  
 They dwelt in their strawy pen,  
