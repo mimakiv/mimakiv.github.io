@@ -1,9 +1,9 @@
 ## Milja Kivijärvi web-tehtävä
 
 ## Italics and Bold
-Writing in Markdown is _not_ that hard!
-I **will** complete these lessons!
-"_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"
+Writing in Markdown is _not_ that hard!  
+I **will** complete these lessons!  
+"_Of course_," she whispered. Then, she shouted: "All I need is **a little moxie**!"  
 If you're thinking to yourself, **_This is unbelievable_**, you'd probably be right.
 
 ## Headers
@@ -26,7 +26,7 @@ Here's some words about the book _One Hundred Years...._
 
 #### The Latest News from [the BBC](www.bbc.com/news)
 
-Do you want to [see something fun][a fun place]?
+Do you want to [see something fun][a fun place]?  
 Well, do I have [the website for you][another fun place]!
 
 [a fun place]: www.zombo.com
@@ -36,7 +36,7 @@ Well, do I have [the website for you][another fun place]!
 
 ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-![Black cat][Black]
+![Black cat][Black]  
 ![Orange cat][Orange]
 
 [Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
@@ -71,7 +71,6 @@ I read this interesting quote the other day:
 * Azalea (_Ericaceae Rhododendron_)
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 * Dahlia (_Coreopsideae Dahlia_)
-
 
 * Calculus  
   * A professor
